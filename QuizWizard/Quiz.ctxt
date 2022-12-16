@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Quiz
+comment0.text=\r\n\ Aggiungi\ qui\ una\ descrizione\ della\ classe\ Quiz\r\n\ \r\n\ @author\ (Mazen\ Srari)\ \r\n\ @version\ (v1.0)\r\n
+comment1.params=quizTag
+comment1.target=Quiz(java.lang.String)
+comment1.text=\r\n\ Constructor\ of\ Class\ Quiz\r\n
+comment2.params=
+comment2.target=int\ getSizeOfQuiz()
+comment3.params=code
+comment3.target=Question\ getQuestion(java.lang.String)
+comment4.params=
+comment4.target=java.util.HashMap\ getQuiz()
+comment5.params=code\ question
+comment5.target=void\ addQuestion(java.lang.String,\ Question)
+comment6.params=code
+comment6.target=void\ removeQuestion(java.lang.String)
+comment7.params=code\ newQuestion
+comment7.target=void\ replaceQuestion(java.lang.String,\ Question)
+numComments=8

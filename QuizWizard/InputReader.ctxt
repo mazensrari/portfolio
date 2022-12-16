@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=InputReader
+comment0.text=\r\n\ This\ class\ will\ read\ the\ User\ Input\r\n\ \r\n\ @author\ (Mazen\ Srari)\ \r\n\ @version\ (v1.0)\r\n
+comment1.params=
+comment1.target=InputReader()
+comment1.text=\r\n\ Constructor\ of\ Class\ InputReader\r\n
+comment2.params=
+comment2.target=java.util.Scanner\ getScanner()
+comment3.params=file
+comment3.target=InputReader(java.lang.String)
+comment3.text=\r\n\ We\ will\ have\ this\ method\ read\ through\ a\ specific\ file\ only\ for\r\n\ Testing\ purposes.\ The\ main\ scanner\ will\ read\ the\ keyboards\ input\r\n
+comment4.params=prompt
+comment4.target=java.lang.String\ getText(java.lang.String)
+comment5.params=prompt
+comment5.target=int\ getNumber(java.lang.String)
+numComments=6
