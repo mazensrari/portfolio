@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Shop
+comment0.text=\r\n\ @author\ (Mazen\ Srari)\ \r\n\ @version\ (v1)\r\n
+comment1.params=price
+comment1.target=Shop(int)
+comment2.params=
+comment2.target=int\ getPrice()
+comment3.params=
+comment3.target=int\ getNoOfItemsSold()
+comment4.params=
+comment4.target=int\ getStockAvailable()
+comment5.params=
+comment5.target=int\ getMaxStock()
+comment6.params=amount
+comment6.target=void\ sell(int)
+comment7.params=amountOrder
+comment7.target=void\ orderStock(int)
+comment8.params=
+comment8.target=int\ getTotal()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10

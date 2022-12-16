@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Supplier
+comment0.text=\r\n\ @author\ (Mazen\ Srari)\ \r\n\ @version\ (v1)\r\n
+comment1.params=
+comment1.target=Supplier()
+comment1.text=\r\n\ Costruttore\ degli\ oggetti\ di\ classe\ \ Supplier\r\n
+comment2.params=
+comment2.target=int\ getStockAvailable()
+comment3.params=
+comment3.target=int\ getStockSold()
+comment4.params=
+comment4.target=boolean\ hasUnlimitedStock()
+comment5.params=amountOrder
+comment5.target=void\ sellStock(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7
